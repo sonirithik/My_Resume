@@ -117,6 +117,9 @@ footer{
     width: 223px;
 }
 
-footer.footer-rights{
+footer .footer-rights{
     text-align: center;
+    color: gray;
+    padding: 12px 0;
+    
 }
